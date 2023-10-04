@@ -1,7 +1,5 @@
 # Desafio - Projeto de Banco de Dados E-Commerce refinado.
 
-![img](img/ecommerce2.jpg)
-
 
 * **Concluí o Desafio que consiste na modelagem de um banco de dados para o cenário de um e-commerce, script sql para criação do schema, persistência e realização de testes utilizando queries para responder determinadas perguntas.** 
 * **Resolvi realizar o projeto utilizando python e as libs pandas e mysql.connector para demonstrar o passo a passo de todo o projeto.**
